@@ -1,4 +1,4 @@
-PoziTone ![PoziTone Logo](https://raw.githubusercontent.com/poziworld/pozitone/develop/img/pozitone-icon-48.png)
+PoziTone ![PoziTone Logo](https://raw.githubusercontent.com/poziworld/pozitone/develop/img/pozitone-icon-38.png)
 =======
 
 
